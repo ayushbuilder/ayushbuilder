@@ -7,7 +7,7 @@
 - 📚 Building projects step by step
 
 ## Current Skills
-- Python (Beginner)
+- Python 
 - HTML
 - CSS
 - Git & GitHub
