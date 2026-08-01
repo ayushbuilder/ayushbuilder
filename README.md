@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Ayush
 
-<!--
-**ayushbuilder/ayushbuilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Learning Python
+- 🌐 Learning Web Development
+- 🤖 Interested in AI
+- 📚 Building projects step by step
 
-Here are some ideas to get you started:
+## Current Skills
+- Python (Beginner)
+- HTML
+- CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Goals
+- Build useful projects
+- Improve my coding skills
+- Get my first freelance client
